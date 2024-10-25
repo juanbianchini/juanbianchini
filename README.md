@@ -2,7 +2,7 @@
 I'm Juan, an aspiring Software Developer ⭐⭐⭐
 <br><br>
 ### More about me:
-- 🌱 Focusing on AI
+- 🌱 Back-end 
 - 🔭 I’m currently collaborating on a student communication and management system for an academic institution
 - 👯 Always interested in collaborating with fellow developers and contribute to various communities
 - 💬 Ask me anything—I'm happy to chat and share insights!
