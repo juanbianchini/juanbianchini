@@ -1,5 +1,5 @@
 ## Hi there 👋! Welcome to my GitHub profile 
-I'm Juan, an aspiring Software Developer ⭐⭐⭐
+I'm Juan, an aspiring Software Developer 
 <br><br>
 ### More about me:
 - 🌱 Back-end 
